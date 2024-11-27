@@ -10,7 +10,7 @@ What I am currently working on:
 -->
 ### Languages and Tools
 
-Frontend: ![Javascript](images/my-image.png)
+Frontend: ![Javascript](images/JS.png.png)
 Back-end:
 Mobile:
 Testing and QA Tools:
