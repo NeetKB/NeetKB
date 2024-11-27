@@ -22,16 +22,13 @@ What I am currently working on:
 
 ### Web development projects
 I studied full-stack engineering at the Makers Academy bootcamp. The course focused on pair programming, test driven development, agile processes, and learning by creating projects. Below are my projects that demonstrate my technology and language skills:
-
-
-| Title	        | Description	                                                                                                                                      | Technologies                  |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| RecipeFinder	| A website that utilises an external API to search for recipes, adds recipes to your profiles and searches for recipes in the website database.    | MERN                          |
-|	Acebook	      | A facebook clone which allows you to create posts, like posts, comments on posts, view all posts and view your own profile.	                      | MERN                          |
-| MakersBnB	    | An AirBnB cline which allows you to create a space and has user booking facilities.	                                                              | Python, Flask, HTML,          |
-|               |                                                                                                                                                   | Bootstrap and CSS, PostrgeSQL |
-| TroopTracker  |	A responsive user interface with server-side logic to grab data from an XML file and sort the data in ascending and descending order.	            | Java, SpringBoot, ThymeLeaf,  |
-|               |                                                                                                                                                   | HTML and CSS                  |
+  
+| Title	       | Description	                                                                                                                                      | Technologies                                               |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------- |
+| RecipeFinder	| A website that utilises an external API to search for recipes, adds recipes to your profiles and searches for recipes in the website database.    | MERN, Jest, Vite                                           |
+|	Acebook	     | A facebook clone which allows you to create posts, like posts, comments on posts, view all posts and view your own profile.	                      | MERN, Jest, Vite                                           |
+| MakersBnB	   | An AirBnB cline which allows you to create a space and has user booking facilities.	                                                              | Python, Flask, HTML, Bootstrap and CSS, PostrgeSQL, Pytest |
+| TroopTracker |	A responsive user interface with server-side logic to grab data from an XML file and sort the data in ascending and descending order.	            | Java, SpringBoot, ThymeLeaf, HTML and CSS                  |
 
 📫 How to reach me: my email address is akbhandal@gmail.com
 <!--
