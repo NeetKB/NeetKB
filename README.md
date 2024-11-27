@@ -8,6 +8,13 @@ What I am currently working on:
 -	Keeping my skills sharp – reading … and studying ….
 
 -->
+### Languages and Tools
+
+Frontend: ![Javascript](images/my-image.png)
+Back-end:
+Mobile:
+Testing and QA Tools:
+Tools and Practices:
 
 ### Web development projects
 I studied full-stack engineering at the Makers Academy bootcamp. The course focused on pair programming, test driven development, agile processes, and learning by creating projects. Below are my projects that demonstrate my technology and language skills:
