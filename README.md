@@ -8,19 +8,17 @@ What I am currently working on:
 -	Keeping my skills sharp – reading … and studying ….
 
 -->
+
 ### Languages and Tools
-
-Frontend: ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png)  ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Thymeleaf](https://img.icons8.com/color/48/000000/thymeleaf.png) 
-
-Back-end: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Flask](https://img.icons8.com/ios/50/000000/flask.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-
-Mobile: ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png) 
-
-Testing and QA Tools: ![JUnit](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-test-mobile-app-development-flatart-icons-outline-flatarticons.png) ![Playwright](https://img.icons8.com/color/48/000000/code.png) ![Pytest](https://img.icons8.com/color/48/000000/python.png) ![Vitest](https://img.icons8.com/color/48/000000/code.png) ![Jest](https://img.icons8.com/color/48/000000/jest.png) 
-
-Tools and Practices: ![Git](https://img.icons8.com/color/48/000000/git.png) ![Confluence](https://img.icons8.com/color/48/000000/confluence.png) 
-![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![AWS S3](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
+```
+ code: {
+          frontEnd: [ HTML, CSS, Javascript, React, Bootstrap, Thymeleaf ],
+          backEnd: [ Java, Python, Javascript, MySQL, MongoDB, PostgreSQL, Node, Express, Flask, Spring Boot ],
+          mobile: [ kotlin, android-studio],
+          testing-and-qa: [ Jest, Playwright, Pytest, Junit, Vitest ],
+          tools-and-practices: [ Git, Docker, Jira, Confuence, AWS-S3, OOP, TDD, SOLD ]
+         }
+```
 
 ### Web development projects
 I studied full-stack engineering at the Makers Academy bootcamp. The course focused on pair programming, test driven development, agile processes, and learning by creating projects. Below are my projects that demonstrate my technology and language skills:
