@@ -12,11 +12,16 @@ What I am currently working on:
 ### Languages and Tools
 ```
  code: {
-          frontEnd: [ HTML, CSS, Javascript, React, Bootstrap, Thymeleaf ],
-          backEnd: [ Java, Python, Javascript, MySQL, MongoDB, PostgreSQL, Node, Express, Flask, Spring Boot ],
-          mobile: [ Kotlin, Android-Studio],
-          testing-and-qa: [ Jest, Playwright, Pytest, Junit, Vitest ],
-          tools-and-practices: [ Git, Docker, Jira, Conlfuence, AWS-S3, Object-Orientated-Programming, Test-Driven-Development, SOLID ]
+          frontEnd:
+                   [ HTML, CSS, Javascript, React, Bootstrap, Thymeleaf ],
+          backEnd:
+                   [ Java, Python, Javascript, MySQL, MongoDB, PostgreSQL, Node, Express, Flask, Spring Boot ],
+          mobile:
+                   [ Kotlin, Android-Studio],
+          testing-and-qa:
+                   [ Jest, Playwright, Pytest, Junit, Vitest ],
+          tools-and-practices:
+                   [ Git, Docker, Jira, Conlfuence, AWS-S3, Object-Orientated-Programming, Test-Driven-Development, SOLID ]
          }
 ```
 
