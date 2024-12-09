@@ -16,7 +16,7 @@ What I am currently working on:
           backEnd: [ Java, Python, Javascript, MySQL, MongoDB, PostgreSQL, Node, Express, Flask, Spring Boot ],
           mobile: [ Kotlin, Android-Studio],
           testing-and-qa: [ Jest, Playwright, Pytest, Junit, Vitest ],
-          tools-and-practices: [ Git, Docker, Jira, Confuence, AWS-S3, Object-Orientated-Programming, Test-Driven-Development, SOLID ]
+          tools-and-practices: [ Git, Docker, Jira, Conlfuence, AWS-S3, Object-Orientated-Programming, Test-Driven-Development, SOLID ]
          }
 ```
 
