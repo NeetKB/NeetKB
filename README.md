@@ -1,13 +1,16 @@
 ## Hi there 👋, I'm Avnita
 
-With a background in the legal industry, I bring a unique perspective to software programming, combining analytical detail, communication skills, and problem-solving skills developed in a professional environment. Transitioning into technology, I have built a strong foundation in full-stack development through intensive bootcamps and hands-on projects, specializing in modern tools and languages. My legal career equipped me to break down complex problems, structure data-driven arguments, and navigate collaborative workflows—skills that seamlessly transfer to designing and implementing efficient, user-focused software solutions.
+With a background in the legal industry, I bring a unique perspective to software programming, combining analytical detail, communication skills, and problem-solving skills developed in a professional environment. Transitioning into technology, I have built a strong foundation in full-stack development through intensive bootcamps and hands-on projects, specializing in modern tools and languages. My legal career equipped me with the skills to break down complex problems, structure data-driven arguments, and navigate collaborative workflows—skills that seamlessly transfer to designing and implementing efficient, user-focused software solutions.
 
-<!--### What I am currently working on:
+I am commited to implemmeting software solutions that implement web accessibility features first (not as an add on) by implementing the WC3 standards and principles. Any resources or help to implement this is greatly appreciated.
+
+
 What I am currently working on:
 -	Health Tracker Project
--	Keeping my skills sharp – reading … and studying ….
+-	Keeping my skills sharp
+- reading …
+- and studying ….
 
--->
 
 ### Languages and Tools
 ```
@@ -28,12 +31,13 @@ What I am currently working on:
 ### Web development projects
 I studied full-stack engineering at the Makers Academy bootcamp. The course focused on pair programming, test driven development, agile processes, and learning by creating projects. Below are my projects that demonstrate my technology and language skills:
   
-| Title	       | Description	                                                                                                                                      | Technologies                                            |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------- |
-| RecipeFinder	| A website that utilises an external API to search for recipes, adds recipes to your profiles and searches for recipes in the website database.    | MERN, HTML, CSS, Jest, Vitest                |
-|	Acebook	     | A facebook clone which allows you to create posts, like posts, comments on posts, view all posts and view your own profile.	                      | MERN, Bootstrap, HTML, CSS, Jest, Vitest                |
-| MakersBnB	   | An AirBnB clone which allows you to create a space and has user booking facilities.	                                                              | Python, Flask, Bootstrap, HTML, CSS, PostrgeSQL, Pytest |
-| TroopTracker |	A responsive user interface with server-side logic to grab data from an XML file and sort the data in ascending and descending order.	            | Java, SpringBoot, ThymeLeaf, HTML and CSS               |
+| Title & Link	                                                       | Description	                                                                                                                                      | Technologies                |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------- |
+| [Link for HealthTracker] (https://github.com/NeetKB/HealthTracker)  | A website that tracks symptoms, medications (amongs other things), stores the data and provides analysis                                          | Python, Flask, HTML, TailwindCSS, PostrgeSQL, Pytest    |
+| [CLink for RecipeFinder] (https://github.com/NeetKB/RecipeFinder)	  | A website that utilises an external API to search for recipes, adds recipes to your profiles and searches for recipes in the website database.    | MERN, HTML, CSS, Jest, Vitest                           |
+|	[CLink for AceBook] (https://github.com/NeetKB/AceBook)	            | A facebook clone which allows you to create posts, like posts, comments on posts, view all posts and view your own profile.	                      | MERN, Bootstrap, HTML, CSS, Jest, Vitest                |
+| [CLink for MakesBnB] (https://github.com/NeetKB/MakersBnB)	         | An AirBnB clone which allows you to create a space and has user booking facilities.	                                                              | Python, Flask, Bootstrap, HTML, CSS, PostrgeSQL, Pytest |
+| [CLink for TroopTracker] (https://github.com/NeetKB/Troop-Tracker)  |	A responsive user interface with server-side logic to grab data from an XML file and sort the data in ascending and descending order.	            | Java, SpringBoot, ThymeLeaf, HTML and CSS               |
 
 📫 How to reach me: my email address is akbhandal@gmail.com
 <!--
